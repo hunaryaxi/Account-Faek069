@@ -1,1 +1,1 @@
-worker: node shvan.js
+worker: node yaxi.js
