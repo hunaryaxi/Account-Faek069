@@ -1,7 +1,8 @@
-#Account Faike By Shvan 
+# Account Faek
 
 
-ProgressHome | PH UP | SHVAN UP
+# Dr Staff | DR UP | 
 
+# by: DrYAXI-721
 
-![logo](https://media.discordapp.net/attachments/805822354512019466/861179511416291339/image0-2.jpg)
+![logo](https://cdn.discordapp.com/attachments/843669529736642580/849659792980574218/Untitled-1test.gif)
